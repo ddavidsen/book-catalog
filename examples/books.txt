@@ -1,0 +1,37 @@
+The C Programming Language;2nd;272;45.50
+Clean Code;1st;464;37.99
+Design Patterns;1st;395;54.95
+Introduction to Algorithms;3rd;1312;89.99
+The Pragmatic Programmer;2nd;352;42.50
+Artificial Intelligence: A Modern Approach;4th;1152;99.95
+Effective C++;3rd;320;39.99
+Effective Modern C++;1st;334;49.95
+Programming Pearls;2nd;256;34.50
+Code Complete;2nd;960;58.99
+Refactoring;2nd;448;47.50
+Head First Design Patterns;2nd;694;44.99
+The Mythical Man-Month;2nd;322;36.99
+Introduction to the Theory of Computation;3rd;500;62.50
+Compilers: Principles, Techniques, and Tools;2nd;1000;95.00
+Computer Networks;5th;960;89.50
+Operating System Concepts;10th;976;85.00
+Database System Concepts;7th;1376;99.50
+Modern Operating Systems;4th;1136;92.50
+The Art of Computer Programming;1st;672;120.00
+The Art of Computer Programming;2nd;792;125.00
+Concrete Mathematics;2nd;672;59.99
+Algorithms in C++;3rd;704;75.50
+Introduction to Machine Learning;1st;400;49.95
+Deep Learning;1st;800;69.99
+Python Crash Course;2nd;544;39.99
+Effective Java;3rd;412;44.50
+JavaScript: The Good Parts;1st;176;29.99
+Cracking the Coding Interview;6th;687;39.95
+Grokking Algorithms;1st;256;34.95
+Structure and Interpretation of Computer Programs;2nd;657;59.95
+Programming Rust;2nd;622;54.99
+Clean Architecture;1st;432;39.95
+Domain-Driven Design;1st;560;49.50
+The Clean Coder;1st;256;34.95
+Introduction to Artificial Intelligence;1st;600;59.95
+InsertionEnd

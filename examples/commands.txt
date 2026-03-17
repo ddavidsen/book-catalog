@@ -1,0 +1,11 @@
+10
+hashDisplay
+hashSearch;Clean Code;1st
+hashSearch;The Art of Computer Programming;2nd
+hashDelete;Design Patterns;1st
+hashDelete;Nonexistent Book;1st
+hashDisplay
+hashGetLongestChain
+hashSearch;Python Crash Course;2nd
+hashDelete;Introduction to Algorithms;3rd
+hashGetLongestChain
